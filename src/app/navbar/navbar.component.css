@@ -1,0 +1,36 @@
+/* *{
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.wrapper .sidebar{
+
+background-color:  hwb(242 30% 0%);
+position: fixed;
+transition: all 0.5s ease;
+width: 250px;
+height: 100%;
+
+
+}
+
+.wrapper .sidebar ul li a{
+
+    display: block;
+    padding: 15px 30px;
+    color: white;
+   
+    
+    }
+
+    
+.wrapper .sidebar ul li a:hover, .wrapper .sidebar ul li a:active{
+background:white ;
+color: rgb(16, 16, 90);
+   
+    
+    } */
